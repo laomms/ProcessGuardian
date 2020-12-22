@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProcessGuardian", "ProcessGuardian\ProcessGuardian.vbproj", "{5ADB9902-C784-49E5-9293-61E63EACE85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Debug|x86.ActiveCfg = Debug|x86
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Debug|x86.Build.0 = Debug|x86
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Release|x86.ActiveCfg = Release|x86
+		{5ADB9902-C784-49E5-9293-61E63EACE85E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB36E327-B8B6-48BF-9AAE-83890593626A}
+	EndGlobalSection
+EndGlobal
